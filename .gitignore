@@ -1,2 +1,4 @@
-# Игноририруем hh_vacancies, так как слишком большой размер файла
-hh_vacancies/
+# Игноририруем hh_vacancies, так как слишком большой размер файла и theory.ipynb, так как не нужен
+data/hh_vacancies.csv
+theory.ipynb
+tyutinkirill2014@yandex.ru.pdf
