@@ -1,4 +1,6 @@
-# Игноририруем hh_vacancies, так как слишком большой размер файла и theory.ipynb, так как не нужен
+# Игноририруем hh_vacancies, так как слишком большой размер файла
 data/hh_vacancies.csv
+# Игнорируем theory.ipynb, так как не нужен
 theory.ipynb
+# Игнорируем tyutinkirill2014@yandex.ru.pdf, поскольку это моя личная оценка проекта и его дальнейшие дополнения
 tyutinkirill2014@yandex.ru.pdf
